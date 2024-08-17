@@ -4,7 +4,7 @@ Welcome to my personal portfolio website built with ReactJS! 👋
 
 ## 🚀 Live Demo
 
-Explore the live version of my portfolio [here](https://anash-portfolio.vercel.app/)!
+Explore the live version of my portfolio [here](https://portfolio-three-henna-36.vercel.app/)!
 
 ## 📖 Overview
 
