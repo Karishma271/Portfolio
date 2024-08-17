@@ -1,38 +1,21 @@
-# My Portfolio
+# My React Portfolio
 
-Welcome to my portfolio repository! This repository contains the source code for my professional portfolio website, showcasing my skills, experiences, and projects as a software developer.
+Welcome to my personal portfolio website built with ReactJS! 👋
 
-## Overview
+## 🚀 Live Demo
 
-My portfolio is designed to provide an overview of my background, expertise, and the projects I've worked on during my time as an Associate Software Developer at Baliosoft Solutions. The portfolio includes sections such as "About Me," "Projects," and "Contact," allowing visitors to learn more about me, explore my projects, and get in touch.
+Explore the live version of my portfolio [here](https://anash-portfolio.vercel.app/)!
 
-## Key Features
+## 📖 Overview
 
-- **About Me:** Discover more about my professional background, skills, and experiences.
-- **Projects:** Explore detailed descriptions of the projects I've worked on, including the technologies used and my contributions.
-- **Contact:** Reach out to me via email or connect with me on social media platforms.
+This portfolio website showcases my skills, projects, and experience in the world of web development. It is designed to be responsive, visually appealing, and user-friendly.
 
-## Technologies Used
+## 🛠️ Setup and Installation
 
-- Frontend: React.js, HTML, CSS
-- Backend: 
-- Other: (Any additional libraries, frameworks, or tools)
+1. Clone the repository:
 
-## How to Use
-
-1. **Clone the Repository:**
-  - git clone https://github.com/Suyash0028/my_portfolio.git
-  
-2. **Install Dependencies:**
-  - npm install
-  
-3. **Run the Application:**
-  - npm start
-  
-4. **View the Portfolio:**
-  - Open your browser and navigate to `http://localhost:3000`.
-
-## Additional Information
-
-- This portfolio is continuously updated with new projects and experiences.
-- Feel free to explore the code, suggest improvements, or contact me for collaboration opportunities.
+```bash
+git clone https://github.com/karishma271/Portfolio.git
+cd Portfolio
+npm install
+npm start
