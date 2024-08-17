@@ -16,6 +16,6 @@ This portfolio website showcases my skills, projects, and experience in the worl
 
 ```bash
 git clone https://github.com/karishma271/Portfolio.git
-cd Portfolio
+cd Frontend
 npm install
 npm start
